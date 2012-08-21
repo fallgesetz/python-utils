@@ -1,0 +1,5 @@
+Python Utility Scripts
+----------------------
+
+1. pdb.py -- Use IPython's debugger to debug python instead of vanilla pdb, so we can get nice IPython features like syntax highlighting and magic keywords.
+
